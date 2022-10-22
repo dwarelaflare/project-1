@@ -17,6 +17,7 @@ A place to share resources for start up founders
 ### Wireframes
 
 ![](https://i.imgur.com/TkAI7mH.jpg)
+![](https://i.imgur.com/spOAWp7.png)
 
 ### Daily Plan
 
