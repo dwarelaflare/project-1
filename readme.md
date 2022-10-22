@@ -16,7 +16,7 @@ A place to share resources for start up founders
 
 ### Wireframes
 
-![](https://i.imgur.com/DiQxxPz.png)
+![](https://i.imgur.com/TkAI7mH.jpg)
 
 ### Daily Plan
 
@@ -32,7 +32,4 @@ A place to share resources for start up founders
 | 8 | Present |
 
 ### Link to Project
-[My Project Live Page](https://www.google.com)
-
-
-# project-1
+[My Project Live Page](https://project-1-murex.vercel.app/)
