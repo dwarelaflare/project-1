@@ -31,8 +31,8 @@ width: 500px;
 height: 200px;
 top: 30%;
 left: 60%;
-margin-top: -100px; /* Negative half of height. */
-margin-left: -250px; /* Negative half of width. */
+margin-top: -100px; 
+margin-left: -250px; 
 }
 
 @media (max-width: 600px) {
@@ -42,7 +42,7 @@ margin-left: -250px; /* Negative half of width. */
     height: 200px;
     top: 30%;
     left: 93%;
-    margin-top: -100px; /* Negative half of height. */
-    margin-left: -250px; /* Negative half of width. */
+    margin-top: -100px; 
+    margin-left: -250px; 
     }
   }
