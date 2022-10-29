@@ -10,9 +10,6 @@ A place to share resources for start up founders
 - JQuery
 - Crunchbase API
 - JSON
-- Google Fonts
-
-
 
 ### Wireframes
 

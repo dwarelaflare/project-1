@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  margin: 5px;
+  flex-direction: column;
+  min-height: 100hv;
+  justify-content: center;
+  align-items: center;
+}
+
+h1{
+  color:#ffffff;
+  text-align: center;
+  columns: #ffffff;
+  padding: 10px;
+  text-transform: uppercase;
+  font-family: Helvetica;
+}
+
+p{
+  color:#ffffff;
+  text-align: center;
+  columns: #ffffff;
+  padding: 10px;
+  font-family: Helvetica;
+}
+
+#searchWrapper {
+/* position: relative; */
+position: fixed;
+width: 500px;
+height: 200px;
+top: 30%;
+left: 70%;
+margin-top: -100px; /* Negative half of height. */
+margin-left: -250px; /* Negative half of width. */
+}
+
+@media (max-width: 600px) {
+  #searchWrapper {
+    position: fixed;
+    width: 500px;
+    height: 200px;
+    top: 30%;
+    left: 93%;
+    margin-top: -100px; /* Negative half of height. */
+    margin-left: -250px; /* Negative half of width. */
+    }
+  }
